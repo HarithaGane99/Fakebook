@@ -1,4 +1,6 @@
 .postPaneBox{
-    
-    flex:5;
+    margin-left: 85px;
+    margin-right: 85px;
+    flex:7;
 }
+
